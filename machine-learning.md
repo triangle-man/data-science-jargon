@@ -1,4 +1,4 @@
-# Machine learning
+# Machine Learning
 
 There seem to be two definitions of "machine learning", similar to each other
 but not quite the same.
